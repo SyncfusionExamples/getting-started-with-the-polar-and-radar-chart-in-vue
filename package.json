@@ -10,7 +10,18 @@
   "dependencies": {
     "@syncfusion/ej2-vue-charts": "^20.1.59",
     "core-js": "^3.8.3",
-    "vue": "^2.6.14"
+    "vue": "^2.6.14",
+    "webpack": ">=5.94.0",
+    "vue-template-compiler": ">=3.0.0",
+    "braces": ">=3.0.3",
+    "ws": ">=8.17.1",
+    "express": "4.19.2",
+    "webpack-dev-middleware": "5.3.4",
+    "follow-redirects": "1.15.6",
+    "@babel/traverse": "7.23.2",
+    "postcss": "8.4.31",
+    "json5": "2.2.2",
+    "loader-utils": "2.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -20,7 +31,10 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
-    "vue-template-compiler": "^2.6.14"
+    "vue-template-compiler": ">=3.0.0",
+    "webpack": ">=5.94.0",
+    "braces": ">=3.0.3",
+    "ws": ">=8.17.1"
   },
   "eslintConfig": {
     "root": true,
